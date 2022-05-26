@@ -37,11 +37,11 @@ body {
 }
 
 .navbar-brand {
-    font-size: 25px !important
+    font-size: 25px !important;
 }
 
 .navbar-toggler-icon {
-    color: #fff !important
+    color: #fff !important;
 }
 
 .btn {
@@ -204,7 +204,7 @@ body {
 }
 
 .features .card-text {
-    color: rgba(255, 255, 255, 0.46) !important
+    color: rgba(255, 255, 255, 0.46) !important;
 }
 
 .features .card-body {
@@ -218,7 +218,7 @@ body {
 }
 
 .team .card-text {
-    color: rgba(255, 255, 255, 0.46) !important
+    color: rgba(255, 255, 255, 0.46) !important;
 }
 
 .team .card-body {
