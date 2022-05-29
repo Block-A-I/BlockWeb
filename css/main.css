@@ -37,11 +37,11 @@ body {
 }
 
 .navbar-brand {
-    font-size: 25px !important;
+    font-size: 25px !important
 }
 
 .navbar-toggler-icon {
-    color: #fff !important;
+    color: #fff !important
 }
 
 .btn {
@@ -136,6 +136,25 @@ body {
     margin: 0 0 -3px !important;
 }
 
+.wip-page {
+    text-align: center !important;
+    padding: 60px 50px !important;
+    background-position: bottom !important;
+    background-size: 200% !important;
+    background-repeat: no-repeat !important;
+}
+
+.wip-page .title {
+    font-size: 40px !important;
+    color: #ffffff !important;
+    line-height: 70px !important;
+}
+
+.wip-page .subtitle {
+    font-size: 20px !important;
+    color: #a2a8bd;
+}
+
 .cards {
     margin-top: 30px !important;
 }
@@ -204,7 +223,7 @@ body {
 }
 
 .features .card-text {
-    color: rgba(255, 255, 255, 0.46) !important;
+    color: rgba(255, 255, 255, 0.46) !important
 }
 
 .features .card-body {
@@ -218,7 +237,7 @@ body {
 }
 
 .team .card-text {
-    color: rgba(255, 255, 255, 0.46) !important;
+    color: rgba(255, 255, 255, 0.46) !important
 }
 
 .team .card-body {
