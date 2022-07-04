@@ -1,5 +1,5 @@
 (function() {
     setTimeout(function() {
-        window.location="https://blockai.infoblock.gq";
+        window.location="http://block-a-i.github.io/BlockWeb/";
     }, 5000)
 })();
