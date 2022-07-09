@@ -64,7 +64,7 @@ body {
     color: #fff !important;
     background-image: url('../assets/wavy-purple.svg') !important;
     background-position: bottom !important;
-    background-size: 300% !important;
+    background-size: 200% !important;
     background-repeat: no-repeat !important;
 }
 
@@ -102,7 +102,7 @@ body {
 }
 
 .features .card-body {
-    text-align: left !important;
+    text-align: center !important;
 }
 
 .features .card-title {
@@ -264,13 +264,14 @@ body {
 }
 
 .team a {
-    color: rgba(173, 145, 255, 1)
+    color: rgba(173, 145, 255, 1) !important;
 }
 
 .team a:hover,
 .team a:focus {
-    color: rgba(173, 145, 255, 0.5);
-    text-decoration: none;
+    color: rgba(173, 145, 255, 0.5) !important;
+    text-decoration: none !important;
+    cursor: pointer !important;
 }
 
 .navbar-toggler-icon {
