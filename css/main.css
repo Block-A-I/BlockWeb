@@ -19,10 +19,6 @@ body {
     scrollbar-width: none;
 }
 
-a {
-    text-decoration: none;
-}
-
 .nav-link {
     font-size: 14px !important;
     background: transparent !important;
@@ -133,7 +129,7 @@ a {
 }
 
 .team .card-body {
-    text-align: left !important;
+    text-align: center !important;
 }
 
 .team .card-title {
@@ -265,6 +261,16 @@ a {
 
 .team .card-body {
     padding: 40px 40px 40px 30px !important;
+}
+
+.team a {
+    color: rgba(173, 145, 255, 1)
+}
+
+.team a:hover,
+.team a:focus {
+    color: rgba(173, 145, 255, 0.5);
+    text-decoration: none;
 }
 
 .navbar-toggler-icon {
